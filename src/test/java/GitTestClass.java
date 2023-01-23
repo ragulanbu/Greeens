@@ -10,10 +10,16 @@ System.out.println("1");
 		System.out.println("3");
 	}
 	private void Durkesh() {
-System.out.println("Tirunelveli");
+		System.out.println("Tirunelveli");
+			}
+			private void Ragul() {
+		System.out.println("Arcot");
+			}
+	private void Vishal() {
+System.out.println("Chennai");
 	}
-	private void Ragul() {
-System.out.println("Arcot");
+	private void Karthi() {
+System.out.println("Chennai");
 	}
 
 }
