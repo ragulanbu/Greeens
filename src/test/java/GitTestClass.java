@@ -9,5 +9,11 @@ System.out.println("1");
 	private void m3() {
 		System.out.println("3");
 	}
+	private void Durkesh() {
+System.out.println("Tirunelveli");
+	}
+	private void Ragul() {
+System.out.println("Arcot");
+	}
 
 }
